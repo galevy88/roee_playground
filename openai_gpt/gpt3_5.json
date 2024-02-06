@@ -1,0 +1,28 @@
+{
+    "good_sentences": [
+        {
+            "text": "Orders from the organization leadership, acquisition of UAVs and use of criminal elements: This is how Hamas terrorist organization senior operatives advanced attacks against innocents around the world.",
+            "reason": "Illustrates severity of aggressors' actions and threat to global security."
+        },
+        {
+            "text": "Considerable information has been uncovered that proves how the Hamas terrorist organization has acted to expand its violent activity abroad in order to attack innocents around the world.",
+            "reason": "Highlights gravity of aggressors' actions and their global impact."
+        },
+        {
+            "text": "The Mossad, the ISA and the IDF, in conjunction with the international security and enforcement bodies, will continue their efforts to thwart the terrorist intentions of Hamas and all terrorist organizations.",
+            "reason": "Emphasizes the importance of combating terrorism for security and protection of innocent lives globally."
+        }
+    ],
+    "not_good_sentences": [
+        {
+            "text": "Hamas draws inspiration from the terrorist activity of the Iranian regime, and like it, aspires to attack Israeli, Jewish and Western targets at any price.",
+            "reason": "Doesn't emphasize the global threat posed by aggressors, focuses on specific targets."
+        }
+    ],
+    "semi_good_sentences": [
+        {
+            "text": "In a continuing intelligence effort, considerable information has been uncovered that proves how the Hamas terrorist organization has acted to expand its violent activity abroad in order to attack innocents around the world.",
+            "reason": "Addresses the severity of aggressor's actions, lacks specifics."
+        }
+    ]
+}

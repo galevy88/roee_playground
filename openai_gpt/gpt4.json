@@ -1,0 +1,31 @@
+{
+    "good_sentences": [
+        {
+            "text": "This is how Hamas terrorist organization senior operatives advanced attacks against innocents around the world.",
+            "reason": "Details about how the aggressor is orchestrating attacks against noncombatants, highlighting the menace they pose globally."
+        },
+        {
+            "text": "The Hamas terrorist organization is working to advance attacks against targets in the Middle East, Africa and Europe under the command of senior organization leaders.",
+            "reason": "Shows the broad geographic scope of the aggressor's actions, highlighting its global threat."
+        },
+        {
+            "text": "In a continuing intelligence effort, considerable information has been uncovered that proves how the Hamas terrorist organization has acted to expand its violent activity abroad in order to attack innocents around the world.",
+            "reason": "Counters misinformation by presenting clear evidence of the aggressor's intention to expand its violent activities."
+        },
+        {
+            "text": "Hamas draws inspiration from the terrorist activity of the Iranian regime, and like it, aspires to attack Israeli, Jewish and Western targets at any price.",
+            "reason": "Details the dangerous intentions of Hamas, establishing their alignment with the actions of widely recognized terrorist groups."
+        },
+        {
+            "text": "The Mossad, the ISA and the IDF, in conjunction with the international security and enforcement bodies, will continue their efforts to thwart the terrorist intentions of Hamas and all terrorist organizations, and to settle accounts with them everywhere in the world, on behalf of the security of the State of Israel and the Jewish people.",
+            "reason": "Depicts Israel's commitment to battle against terrorism in the essence of global safety, signaling its efforts to protect not just itself but human rights and global security."
+        }
+    ],
+    "not_good_sentences": [],
+    "semi_good_sentences": [
+        {
+            "text": "On 14 December 2023, the Danish and German security and enforcement authorities announced the widespread arrest of suspects in Europe who are now the subject of judicial proceedings.",
+            "reason": "Indicates a response to terrorist activity by European authorities but doesn't provide clear context or details about the suspects' affiliations or actions."
+        }
+    ]
+}
